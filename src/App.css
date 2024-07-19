@@ -1,0 +1,19 @@
+:root{
+  --main-color: #16a085;
+}
+
+body{
+  background-color: var(--main-color) !important;
+}
+
+.App {
+  text-align: center;
+}
+
+.btn-primary{
+  background-color: var(--main-color)!important;
+  border-color: var(--main-color)!important;
+}
+#quote-box{
+  color: var(--main-color);
+}
